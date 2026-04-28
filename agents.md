@@ -38,6 +38,7 @@ Current commit history:
 The inactive/background tabs are navy to match the Windows 95 active title bar feel:
 
 ```json
+"frame_inactive": [0, 0, 128],
 "background_tab": [0, 0, 128],
 "background_tab_inactive": [0, 0, 128],
 "tab_background_text": [255, 255, 255],
