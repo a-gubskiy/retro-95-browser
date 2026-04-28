@@ -1,12 +1,12 @@
 # Agent Handoff
 
-This repository contains a local Chromium browser theme for Chrome and Microsoft Edge.
+This repository contains Retro 95 Browser Theme, a local Chromium browser theme for Chrome and Microsoft Edge.
 
 ## Project Goal
 
-Create a browser theme that mimics the color language of classic Windows 95 applications without using Microsoft-owned logos, icons, screenshots, wallpapers, or official branding.
+Create a browser theme for the Retro 95 project that mimics the color language of classic 90s desktop applications without using Microsoft-owned logos, icons, screenshots, wallpapers, or official branding.
 
-The theme should feel like a retro Windows 95 desktop:
+The theme should feel like a retro 90s desktop:
 
 - Navy title bar: `#000080`
 - Teal desktop/new tab background: `#008080`
@@ -35,7 +35,7 @@ Current commit history:
 
 ## Current Theme Decisions
 
-The inactive/background tabs are navy to match the Windows 95 active title bar feel:
+The inactive/background tabs and inactive window frame are navy to match the active title bar feel:
 
 ```json
 "frame_inactive": [0, 0, 128],
