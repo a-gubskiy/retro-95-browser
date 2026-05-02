@@ -6,9 +6,9 @@
   "theme": {
     "colors": {
       "frame": [0, 0, 128],
-      "frame_inactive": [0, 0, 128],
+      "frame_inactive": [128, 128, 128],
       "frame_incognito": [0, 0, 128],
-      "frame_incognito_inactive": [0, 0, 128],
+      "frame_incognito_inactive": [128, 128, 128],
       "toolbar": [192, 192, 192],
       "toolbar_button_icon": [23, 23, 23],
       "omnibox_background": [255, 255, 255],
