@@ -16,7 +16,7 @@
       "bookmark_text": [23, 23, 23],
       "tab_text": [23, 23, 23],
       "tab_background_text": [255, 255, 255],
-      "ntp_background": [0, 0, 128],
+      "ntp_background": [0, 128, 128],
       "ntp_text": [231, 231, 231],
       "ntp_link": [231, 231, 231],
       "vertical_active_tab": [0, 0, 128],
