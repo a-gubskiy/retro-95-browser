@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Retro 95 Browser Theme",
-  "version": "1.1.4",
+  "version": "1.1.7",
   "description": "A retro Chromium theme inspired by classic 90s desktop colors.",
   "theme": {
     "colors": {
